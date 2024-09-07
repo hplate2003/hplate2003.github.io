@@ -6,9 +6,13 @@
   --bs-body-bg: var(--bs-grey-100);
 }
 body{
-  background-color: #062837;
+  background-color: #d2c1f0;
 }
 
 p {
-  color: whitesmoke;
+  color: black;
+}
+
+p{
+  color: black
 }
