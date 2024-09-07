@@ -6,3 +6,6 @@
   --bs-body-bg: var(--bs-grey-100);
 }
 
+body {
+  text-align: center;
+}
