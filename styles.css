@@ -5,7 +5,6 @@
 :root {
   --bs-body-bg: var(--bs-grey-100);
 }
-
 body{
-  background-color: darkslategrey;
+  background-color: #062837;
 }
