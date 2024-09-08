@@ -24,6 +24,9 @@ p {
   color:#e6d6e0
 }
 
+.card-body {
+  padding: 2rem; 
+}
 
 h{
   color: #E6D6E0;
