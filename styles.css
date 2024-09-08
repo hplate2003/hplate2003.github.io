@@ -6,6 +6,10 @@
   --bs-body-bg: var(--bs-grey-100);
 }
 
+body {
+  text-align: center;
+}
+
 h{
   color:#e6d6e0
 }
@@ -23,9 +27,7 @@ p {
   color:#e6d6e0
 }
 
-body {
-  text-align: center;
-}
+
 
 
 
