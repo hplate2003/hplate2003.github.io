@@ -2,6 +2,9 @@
  * Custom CSS
  */
 
+ :root {
+  --bs-body-bg: var(--bs-grey-100);
+}
 
 body{
   background-color: #0d030f;
