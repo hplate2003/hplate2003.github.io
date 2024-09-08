@@ -12,9 +12,7 @@ body{
 p {
   color: #e6d6e0;
 }
-h{
-  color: #e6d6e0;
-}
+
 
 .card-title{
   color:#e6d6e0
@@ -24,6 +22,9 @@ body {
   text-align: center;
 }
 
+h{
+  color:#e6d6e0
+}
 
 
 
